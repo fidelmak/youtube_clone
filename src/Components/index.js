@@ -6,4 +6,4 @@ export { default as SearchFeed } from './SearchFeed'
 
 export {SearchBar } from './SearchBar'
 export { default as  Sidebar } from './Sidebar'
-export {Videos} from './Videos'
+export {default as Videos} from './Videos'

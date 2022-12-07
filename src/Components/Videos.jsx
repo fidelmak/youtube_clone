@@ -1,11 +1,9 @@
 import React from 'react'
 
-export function Videos(props) {
-    
-
-    return (
-        <>
-          new  
-        </>
-    )
+const Videos = () => {
+  return (
+    <div>Videos</div>
+  )
 }
+
+export default Videos
